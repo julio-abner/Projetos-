@@ -1,2 +1,2 @@
-# Projetos-
+# Projetos
 Projetos (desenvolvidos, em desenvolvimento, futuros)
